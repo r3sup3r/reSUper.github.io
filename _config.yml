@@ -28,7 +28,6 @@ twitter_username: resuper
 github_username:  r3sup3r
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
